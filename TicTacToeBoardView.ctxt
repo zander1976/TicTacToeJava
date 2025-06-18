@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TicTacToeBoardView
+comment0.text=\r\n\ Tic\ Tac\ Toe\ Board\ View\r\n\r\n\ @author\ Ben\ Woodhead\r\n\ @version\ March\ 28,\ 2024\r\n
+comment1.params=
+comment1.target=TicTacToeBoardView()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TicTacToeView\r\n
+comment2.params=a
+comment2.target=void\ registerListener(java.awt.event.ActionListener)
+comment2.text=\r\n\ Registers\ outside\ handlers\r\n\ \r\n\ @param\ The\ listener\ to\ handle\ actions\r\n
+comment3.params=o\ arg
+comment3.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment3.text=\r\n\ Update\ is\ called\ when\ the\ model\ is\ updated\r\n\ \r\n\ @param\ Observable\ The\ Tic\ Tac\ Toe\ model\ that\ has\ been\ updated\r\n\ @param\ Object\ Arguments\ that\ are\ sent\ from\ the\ model\r\n
+numComments=4

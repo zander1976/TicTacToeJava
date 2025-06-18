@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TicTacToeStatusView
+comment0.text=\r\n\ Tic\ Tac\ Toe\ Status\ View\r\n\r\n\ @author\ Ben\ Woodhead\r\n\ @version\ March\ 28,\ 2024\r\n
+comment1.params=
+comment1.target=TicTacToeStatusView()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TicTacToeStatusView\r\n
+comment2.params=o\ arg
+comment2.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment2.text=\r\n\ Update\ is\ called\ when\ the\ model\ is\ updated\r\n\ \r\n\ @param\ Observable\ The\ Tic\ Tac\ Toe\ model\ that\ has\ been\ updated\r\n\ @param\ Object\ Arguments\ that\ are\ sent\ from\ the\ model\r\n
+numComments=3

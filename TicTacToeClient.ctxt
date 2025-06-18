@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TicTacToeClient
+comment0.text=\r\n\ Tic\ Tac\ Toe\ Main\ Setup\r\n\r\n\ @author\ Ben\ Woodhead\ \r\n\ @version\ April\ 3,\ 2024\r\n
+comment1.params=argv
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ entry\ point\r\n
+numComments=2
